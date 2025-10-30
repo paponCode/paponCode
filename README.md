@@ -3,7 +3,7 @@
 
 <!-- 🧠 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Passionate+about+React+%26+Next.js;Building+Modern+%26+Scalable+Web+Apps;Welcome+to+paponCode+👨‍💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+paponCode+👨‍💻;Full+Stack+Web+Developer;Passionate+about+React+%26+Next.js;Building+Modern+%26+Scalable+Web+Apps;" alt="Typing Animation" />
 </p>
 
 ---
