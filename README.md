@@ -8,7 +8,7 @@
 
 ---
 
-##🚀 About Me
+## 🚀 About Me
 
 <p style="font-size: 12px;">
 I'm a passionate <b>Full Stack Developer</b> who loves turning ideas into real-world digital experiences.<br/>
