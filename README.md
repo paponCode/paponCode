@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+paponCode+👨‍💻;Front-end+Developer;Passionate+about+React+%26+Next.js;Building+Modern+%26+Scalable+Web+Apps;" alt="Typing Animation" />
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -25,7 +24,7 @@ I focus on creating clean, efficient, and user-friendly web applications using m
 
 > “Code with passion, design with purpose, and build experiences that matter.””
 
----
+--
 
 ## 🧠 Tech Stack
 
@@ -57,7 +56,7 @@ I focus on creating clean, efficient, and user-friendly web applications using m
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+--
 
 ## 🌐 Connect with Me
 <p align="left">
