@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20paponCode%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Welcome to paponCode Banner" />
 </p>
-<p align="center">
-   Hi there, I'm Papon Basunia 👋
-</p>
+
 <h1 align="center" style="font-size: 60px; font-weight: bold;">
   Hi there, I'm Papon Basunia 👋
 </h1>
