@@ -1,5 +1,6 @@
+<!-- 🎨 Modern Stylish Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20paponCode%20💻&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Welcome to paponCode Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20paponCode%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Welcome to paponCode Banner" />
 </p>
 
 ## Hi there, I'm **Papon Basunia** 👋 
