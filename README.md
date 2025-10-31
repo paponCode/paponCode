@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm **Papon Basunia**
+## Hi there, I'm **Papon Basunia** 👋 
 
 <!-- 🧠 Typing Animation -->
 <p align="center">
@@ -54,7 +54,6 @@ I focus on creating clean, efficient, and user-friendly web applications using m
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
---
 
 ## 🌐 Connect with Me
 <p align="left">
