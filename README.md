@@ -10,11 +10,11 @@
 ## 🚀 About Me
 
 <p style="font-size: 12px;">
-I'm a passionate <b>Front-end Developer</b> who loves turning ideas into real-world digital experiences.I focus on creating clean, efficient, and user-friendly web applications using modern technologies.
+I'm a passionate <b>Front-end Developer</b> who loves turning ideas into impactful digital experiences. I focus on building clean, efficient, and user-friendly web applications using modern technologies.
 </p>
 
 <ul style="font-size: 11px;">
-  <li>🌱 Currently learning <b>Advanced JavaScript</b> and <b>Next.js</b></li>
+  <li>🌱 Currently mastering <b>Advanced JavaScript</b> and modern <b>Web Development</b> practices</li>
   <li>💡 Building projects that solve <b>real-world problems</b></li>
   <li>🤝 Open to collaborating on <b>open-source projects</b></li>
   <li>📚 Always learning, always improving</li>
