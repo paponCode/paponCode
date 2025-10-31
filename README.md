@@ -62,8 +62,8 @@ I focus on creating clean, efficient, and user-friendly web applications using m
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/paponCode"<img src="https://img.shields.io/badge/GitHub-paponCode-181717?style=for-the-badge&logo=github"> alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/paponbasunia121" <img src="https://img.shields.io/badge/GitHub-paponCode-181717?style=for-the-badge&logo=github"> alt="LinkedIn"/></a>
+  <a href="https://github.com/" <img src="https://img.shields.io/badge/GitHub-paponCode-181717?style=for-the-badge&logo=github"> alt="GitHub"/></a>
+  <a href="https://linkedin.com/" <img src="https://img.shields.io/badge/GitHub-paponCode-181717?style=for-the-badge&logo=github"> alt="LinkedIn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
