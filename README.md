@@ -24,8 +24,6 @@ I focus on creating clean, efficient, and user-friendly web applications using m
 
 > “Code with passion, design with purpose, and build experiences that matter.””
 
---
-
 ## 🧠 Tech Stack
 
 ### 🌐 Frontend  
@@ -71,7 +69,6 @@ I focus on creating clean, efficient, and user-friendly web applications using m
   </a>
 </p>
 
-
----
+##
 
 ⭐️ *“Code. Learn. Build. Repeat.”*
