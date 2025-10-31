@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20paponCode%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Welcome to paponCode Banner" />
 </p>
-
-## Hi there, I'm **Papon Basunia** 👋 
+<p align="center">
+  ## Hi there, I'm **Papon Basunia** 👋 
+</p>
 
 <!-- 🧠 Typing Animation -->
 <p align="center">
@@ -69,7 +70,7 @@ I'm a passionate <b>Front-end Developer</b> who loves turning ideas into impactf
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+
 
 ##
 
