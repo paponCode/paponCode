@@ -75,4 +75,4 @@ I'm a passionate <b>Front-end Developer</b> who loves turning ideas into impactf
 
 ##
 
-⭐️ *“Code. Learn. Build. Repeat.”*
+
