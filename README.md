@@ -71,8 +71,3 @@ I'm a passionate <b>Front-end Developer</b> who loves turning ideas into impactf
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-
-
-##
-
-
